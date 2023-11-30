@@ -8,4 +8,4 @@ def main(tuple1,n,k):
     Returns:
         tuple: return answer.
     """
-    return
+    return tuple1[n:k+1]

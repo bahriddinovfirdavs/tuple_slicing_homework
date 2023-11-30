@@ -6,4 +6,5 @@ def main(numbers):
     Returns:
         tuple: return answer.
     """
-    return
+    return numbers[::2]
+

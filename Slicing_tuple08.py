@@ -5,6 +5,6 @@ def main(tuple1,n):
         tuple1(tuple): parameter
         n(int): parameter
     Returns:
-        tuple: return answer.
+        tuple: return answer. 
     """
     return
