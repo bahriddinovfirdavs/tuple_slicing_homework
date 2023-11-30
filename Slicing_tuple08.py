@@ -7,4 +7,4 @@ def main(tuple1,n):
     Returns:
         tuple: return answer. 
     """
-    return
+    return tuple1[::-n]
